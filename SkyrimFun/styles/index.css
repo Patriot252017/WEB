@@ -57,7 +57,11 @@ li {
     line-height: 3;
     color: black;
   }
-
+  div.in_head{
+    font-size: 120%;
+    text-align: right;
+    color: rgb(214, 214, 214);
+  }
   li:last-child a {
     margin-right: 0;
   }
@@ -100,9 +104,4 @@ div.introduction_in_txt{
     background-color: rgba(114, 114, 114, 0.438);
     width: 55%;
     margin-left: 25%;
-}
-
-#datetime {
-  font-size: 90%;
-  color: rgb(214, 214, 214);
 }
